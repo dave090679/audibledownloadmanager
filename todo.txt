@@ -1,0 +1,1 @@
+* the buttons inside each list item (pause, resume etc). should be accessible via navigator or via nvda+enter.
