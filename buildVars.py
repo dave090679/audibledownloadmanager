@@ -20,7 +20,7 @@ addon_info = {
 	"addon-description" : _("""this add-on improves the accessibility of the audible download manager.
 Instead of displaying the full paths of the .adh files in the downloads list, meta infos are displayed (such as the download status)."""),
 	# version
-	"addon-version" : "1.1",
+	"addon-version" : "1.2",
 	# Author(s)
 	"addon-author" : u"David Parduhn <xkill85@gmx.net>",
 	# URL for the add-on documentation support
