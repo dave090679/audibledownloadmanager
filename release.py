@@ -4,8 +4,8 @@
 # See the file COPYING for more details.
 import buildVars
 import subprocess
-name  = buildVars.addon_info["addon_name"]
-version = buildVars.addon_info["addon_version"]
+name  = buildVars.addon_info["addon-name"]
+version = buildVars.addon_info["addon-version"]
 subprocess.call([
 	"git",
 	"tag",
